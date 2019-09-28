@@ -8,6 +8,8 @@ How do you run it? Simply double click it and cmd.exe will launch. Or pass it th
 
 The tool is actually a merge of 2 previous tools; RunAsSystem and RunFromToken. The curious ones might notice that RunFromToken is attached as a resource.
 
+Have added the original source of RunFromToken as the exe's must be present in current directory when building RunAsTi.
+
 The tool only runs on nt6.x (Vista and later), since TrustedInstaller does not exist on earlier Windows versions.
 
 Requirement: Administrator.
