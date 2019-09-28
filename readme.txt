@@ -6,6 +6,8 @@ Why would you need it? Sometimes it is just not enough to just be running as "nt
 
 How do you run it? Simply double click it and cmd.exe will launch. Or pass it the program to launch as parameter.
 
+There are reports that the tool does not work over an RDP session.
+
 The tool is actually a merge of 2 previous tools; RunAsSystem and RunFromToken. The curious ones might notice that RunFromToken is attached as a resource.
 
 Have added the original source of RunFromToken as the exe's must be present in current directory when building RunAsTi.
